@@ -1,4 +1,4 @@
-Laboratorio 2 SD - Primer Semestre 2017
+Laboratorio 3 Sistemas Distribuidos - Primer Semestre 2017
 =============================================
 
 Profesor Laboratorio: Maximiliano Pérez.
